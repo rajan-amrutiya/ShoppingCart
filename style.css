@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(217, 240, 240);
+}
+#shopName{
+    text-align: center;
+    justify-content: center;
+    
+}
+#mainDivision{
+    text-align: center;
+    justify-content: center;
+}
+
+#buttons{
+    justify-content: center;
+}
